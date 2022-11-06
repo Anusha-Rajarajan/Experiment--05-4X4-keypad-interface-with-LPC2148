@@ -284,10 +284,10 @@ void LCD_init()
 }
 ~~~
 ## Output screen shots :
-![output](./c2.jpeg)
-![output](./c3.jpeg)
+![output](./aa2.jpeg)
+![output](./aa1.jpeg)
 ## Layout :
-![output](./cc1.png)
+![output](./aa3.png)
 
 ## Result :
 Interfacing a keypad 4x4 is interfaced  with LPC2148
